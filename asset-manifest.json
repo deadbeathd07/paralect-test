@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/paralect-test/static/css/main.a286cc64.css",
+    "main.js": "/paralect-test/static/js/main.6b66b59e.js",
+    "static/media/user-photo.jpg": "/paralect-test/static/media/user-photo.e042042abc4b5cda2749.jpg",
+    "static/media/github-icon.svg": "/paralect-test/static/media/github-icon.1ee5d17ed4c57bd108a057783e8b165a.svg",
+    "static/media/followers-icon.svg": "/paralect-test/static/media/followers-icon.fdce70b4d370c3a27409.svg",
+    "static/media/repository-icon.svg": "/paralect-test/static/media/repository-icon.ae2522580bf55fa6ea58b4d7ae8a6e60.svg",
+    "static/media/search-icon-l.svg": "/paralect-test/static/media/search-icon-l.5d641b04cc9e3677440997256a3821c1.svg",
+    "static/media/search-icon-s.svg": "/paralect-test/static/media/search-icon-s.5e71efd59e1286616282837ee2f362c4.svg",
+    "static/media/user-icon.svg": "/paralect-test/static/media/user-icon.8fe7b3bb405afa93a396091fe2205290.svg",
+    "index.html": "/paralect-test/index.html",
+    "static/media/following-icon.svg": "/paralect-test/static/media/following-icon.93daef0a403cf8f22ae7.svg",
+    "main.a286cc64.css.map": "/paralect-test/static/css/main.a286cc64.css.map",
+    "main.6b66b59e.js.map": "/paralect-test/static/js/main.6b66b59e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a286cc64.css",
+    "static/js/main.6b66b59e.js"
+  ]
+}
