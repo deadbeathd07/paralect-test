@@ -1,0 +1,13 @@
+$main-light-color: #fff;
+$main-background-color: #f9f9f9;
+$main-color: #0064eb;
+$main-font-color: #000;
+$alter-font-color: #808080;
+
+%default-text {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.1875rem;
+  color: $main-font-color;
+}
